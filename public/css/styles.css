@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+  }
+
+.bg-img {
+    position: static;
+}
+
+.introduction {
+    margin: 5em;
+    width: 900px;
+    word-break: normal;
+}
+
+h1 {
+    color: #F3B95F;
+}
+
+h2 {
+    color: #FE7A36;
+}
+
+.recommendations {
+    margin: 5em;
+    text-align: left;
+}
